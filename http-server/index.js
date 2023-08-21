@@ -1,5 +1,5 @@
-const http = require('http');
-const fs = require('fs');
+let http = require('http');
+let fs = require('fs');
 
 let homeContent = "";
 let projectContent = "";
